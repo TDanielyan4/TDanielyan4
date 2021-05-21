@@ -54,3 +54,9 @@ __________________________________________________
 
 Fourth quiz
 
+let age = prompt ('How old are you?', '26 years old')
+undefined
+let name = prompt ('What is your name?','Tigran')
+undefined
+console.log (`My name is ${name}, I am ${age}`)
+My name is Tigran, I am 26 years old
