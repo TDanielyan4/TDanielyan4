@@ -1,10 +1,11 @@
 First quiz
 
-let name = prompt('What is your name?','Tigran');
-
-let surname = prompt('What is your surname?','Danielyan')
-
-alert(`Your name is ${name} and surname is ${surname}`)
+let name = prompt ('What is your name?')
+undefined
+let surname = prompt ('What is your surname?')
+undefined
+alert (`Your name is ${name} and surname is ${surname}`)
+undefined
 __________________________________________________________________
 
 Second quiz
