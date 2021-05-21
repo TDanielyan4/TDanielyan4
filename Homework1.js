@@ -60,3 +60,30 @@ let name = prompt ('What is your name?','Tigran')
 undefined
 console.log (`My name is ${name}, I am ${age}`)
 My name is Tigran, I am 26 years old
+
+__________________________________________
+
+Fifth quiz
+
+let a = 8,
+    b = 12;
+undefined
+[a, b] = [b, a]
+[12, 8]
+console.log (a)
+12
+undefined
+console.log (b)
+8
+undefined
+let a = 10,
+    b = 20;
+undefined
+[a, b] = [b , a]
+[20, 10]
+console.log (a)
+20
+undefined
+console.log (b)
+10
+undefined
